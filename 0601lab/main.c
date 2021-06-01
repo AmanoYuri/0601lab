@@ -9,6 +9,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("AAAAAA\n");
+    printf("Japan\n");
     return 0;
 }
